@@ -1,0 +1,6 @@
+[submodule "WeekCode/week8/APCS-P3-Classwork"]
+	path = WeekCode/week8/APCS-P3-Classwork
+	url = git@github.com:Doggo252/APCS-P3-Classwork.git
+[submodule "WeekCode/week8/P3-HelloWorld"]
+	path = WeekCode/week8/P3-HelloWorld
+	url = https://github.com/mwina7/P3-HelloWorld
